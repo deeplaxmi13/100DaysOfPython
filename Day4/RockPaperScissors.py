@@ -79,5 +79,7 @@ elif userInput == computerChoice:
 
 # print(f"User Choice : {userInput}\nComputer Choice : {computerChoice}")
 
+#this logic uses numbers instead of images/Ascii art
+
 
 
